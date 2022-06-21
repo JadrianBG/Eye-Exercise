@@ -1,5 +1,6 @@
 # Eye-Exercise
 ## You can make the eyes move.
+<br/>![image](IMG_0646.jpg)
 
 ### To run this project clone the repository to capture files on your machine.  You can drag the HTML document link onto a web browser and then you your mouse to make the eyes move. 
 ### Roadmap:  I may play around with variations, changing some color and sizing options.
